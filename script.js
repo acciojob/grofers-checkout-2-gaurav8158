@@ -1,6 +1,6 @@
 //your code here
 // Get all the price elements from the table
-const priceElements = document.querySelectorAll('[data-ns-test="prices"]');
+const priceElements = document.querySelectorAll('[data-ns-test="price"]');
 
 // Initialize a variable to store the total price
 let totalPrice = 0;
